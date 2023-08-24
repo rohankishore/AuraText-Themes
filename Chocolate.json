@@ -1,0 +1,14 @@
+{
+    "editor_theme": "#2c292c",
+    "margin_theme": "#2c292c",
+    "lines_theme": "#2c292c",
+    "editor_fg": "#FFFFFF",
+    "lines_fg": "#FFFFFF",
+    "margin_fg": "#FFFFFF",
+    "font": "Consolas ",
+    "theme": "#a9b1d6",
+    "theme_type": "dark",
+    "sidebar_bg": "#2c292c",
+    "menubar_bg" : "#2c292c",
+    "menu_item_bg" : "#2c292c"
+}
