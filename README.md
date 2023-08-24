@@ -8,3 +8,7 @@
 
 <hr>
 
+## Gunmetal
+![image](https://github.com/rohankishore/AuraText-Themes/assets/109947257/f8709121-b776-47ba-b04b-c7a35515b307)
+
+<hr>
